@@ -14,7 +14,7 @@ Un gobuster nous remonte des codes de retour assez spéciaux en fonction de l'UR
 ![404](answerme-3.png)
 ![entier](answerme-4.png)
 
-Le code de retour pour les URL vers un entier sont de la forme 2XX ou XX semble être une couple de chiffres binaires. Des 404 sont retournés lorsque l'on dépasse 144 comme entier envoyé. La réponse HTTP pour un 0 passé est la même que celle sans entier passé.
+Le code de retour pour les URL vers un entier sont de la forme 2XX où XX semble être une couple de chiffres binaires. Des 404 sont retournés lorsque l'on dépasse 144 comme entier envoyé. La réponse HTTP pour un 0 passé est la même que celle sans entier passé.
 La liste des réponses HTTP pour un entier de 1 à 144 est telle quelle :
 
 ```
