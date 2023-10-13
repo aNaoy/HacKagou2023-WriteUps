@@ -8,7 +8,7 @@ Lorsque l'on se connecte sur le site, on retrouve une page d'accueil nous invita
 
 ![accueil](answerme-1.png)
 
-Un gobuster nous remonte des codes de retour assez spéciaux en fonction de l'URL recherché, si c'est une chaîne de caractères, nous avons un 404, si c'est un entier, nous avons un message nous indiquant qu'il y a un code pour la page de l'entier insérer.
+Un gobuster nous remonte des codes de retour assez spéciaux en fonction de l'URL recherché, si c'est une chaîne de caractères, nous avons un 404, si c'est un entier, nous avons un message nous indiquant qu'il y a un code pour la page de l'entier inséré.
 
 ![gobuster](answerme-2.png)
 ![404](answerme-3.png)

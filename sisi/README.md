@@ -80,7 +80,7 @@ $ checksec sisi
 ### Exploit
 
 Avec tout ça, on conclut rapidement que c'est un buffer overflow dont le but est d'écraser les valeurs des variables check et key :
-- Remplir les 40 octets du buffer buffer
+- Remplir les 40 octets du buffer buf
 - Ecrire les valeurs des variables pour que le check soit juste, 8 octets au total
 
 Commençons par regarder comment sont organisées les variables check et key dans la stack. Pour cela, nous mettons un breakpoint sur le check dans GDB et entrons une input "normale".
