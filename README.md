@@ -11,6 +11,7 @@
 
 ## Dev
 - [BurryIt](https://github.com/aNaoy/HacKagou2023-WriteUps/blob/main/burryit/README.md)
+- [Maths](https://github.com/aNaoy/HacKagou2023-WriteUps/blob/main/maths/README.md)
 
 ## Forensic
 - [Dé&Ness](https://github.com/aNaoy/HacKagou2023-WriteUps/blob/main/deetness/README.md)
