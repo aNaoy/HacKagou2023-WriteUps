@@ -7,6 +7,7 @@
 ## Web
 - [AgentUtilisateur](https://github.com/aNaoy/HacKagou2023-WriteUps/blob/main/agentutilisateur/README.md)
 - [AnswerMe](https://github.com/aNaoy/HacKagou2023-WriteUps/blob/main/answerme/README.md)
+- [Escouelle](https://github.com/aNaoy/HacKagou2023-WriteUps/blob/main/escouelle/README.md)
 
 ## Dev
 - [BurryIt](https://github.com/aNaoy/HacKagou2023-WriteUps/blob/main/burryit/README.md)
