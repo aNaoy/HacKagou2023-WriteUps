@@ -29,7 +29,7 @@ Code simpliste :
 - Deux variables sont définies, check et key
 - Un buffer de 40 octets est défini mais la fonction fgets peut en recevoir 49, il y a sûrement un buffer overflow en vue
 - Vérification des 2 variables check et key avec des valeurs inversées
-- Si c'est exécution de `cat flag.txt`
+- Si la condition est vraie : exécution de `cat flag.txt`
 - Sinon sortie du programme
 
 ```c
