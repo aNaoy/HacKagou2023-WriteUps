@@ -1,6 +1,6 @@
 # Ellesbe
 
-![ellesbe](ellesbe.png)
+![ellesbe](ellesbe-0.png)
 
 ## Write-Up
 
