@@ -1,5 +1,7 @@
 # HacKagou 2023 - Write-Ups
 
+Les write-ups officiels de l'édition 2023 du HacKagou : Chasse aux trésors !
+
 ## PWN
 - [Sisi](https://github.com/aNaoy/HacKagou2023-WriteUps/blob/main/sisi/README.md)
 - [Barriere](https://github.com/aNaoy/HacKagou2023-WriteUps/blob/main/barriere/README.md)
