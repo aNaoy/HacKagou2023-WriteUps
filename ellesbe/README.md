@@ -13,5 +13,7 @@ Le résultat apparaît assez vite puisque la première image, issu de la détect
 
 ![Résultats d'Aperi'Solve](ellesbe-2.png)
 
+![Flag](ellesbe-3.png)
+
 Le flag est donc :
 OPENNC{57eG4n0_0bfU5c4710n}
