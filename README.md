@@ -13,3 +13,6 @@
 
 ## Forensic
 - [Dé&Ness](https://github.com/aNaoy/HacKagou2023-WriteUps/blob/main/deetness/README.md)
+
+## Stegano
+- [Ellesbe](https://github.com/aNaoy/HacKagou2023-WriteUps/blob/main/ellesbe/README.md)
