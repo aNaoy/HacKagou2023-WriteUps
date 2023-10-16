@@ -1,4 +1,4 @@
-# BurryIt
+# HiddN
 
 ![hiddn](hiddn.png)
 
