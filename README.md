@@ -20,3 +20,6 @@ Les write-ups officiels de l'édition 2023 du HacKagou : Chasse aux trésors !
 
 ## Stegano
 - [Ellesbe](https://github.com/aNaoy/HacKagou2023-WriteUps/blob/main/ellesbe/README.md)
+
+## OSINT
+- [HiddN](https://github.com/aNaoy/HacKagou2023-WriteUps/blob/main/hiddn/README.md)
