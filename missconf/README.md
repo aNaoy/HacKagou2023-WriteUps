@@ -22,7 +22,7 @@ Selon l'OWASP, la Security Misconfiguration (A05:2021) peut intervenir pour plus
 - Serveur n'envoie pas d'en-têtes ou de directives de sécurité, ou s'ils ne sont pas paramétrés avec des valeurs correctes du point de vue de la sécurité
 - Version du logiciel est obsolète ou vulnérable
 
-Ici, ayant affaire avec une page d'authentification, nous allons commencer par tester le point concernant les mots de passe des comptes par défaut. Ainsi, nous essayons le couple identifiant / mot de passe :  admin / admin.
+Ici, ayant affaire à une page d'authentification, nous allons commencer par tester le point concernant les mots de passe des comptes par défaut. Ainsi, nous essayons le couple identifiant / mot de passe :  admin / admin.
 
 Et surprise !
 
