@@ -47,7 +47,7 @@ Par ailleurs, il n'y a pas de contrôle sur la taille de l'input qui va être st
 Niveau protection, rien de particulier, la stack permet l'exécution de code et aucun canary n'y est placé :
 
 ```bash
-$ checksec fragile
+$ checksec barriere
 [*] '/home/opennc/barriere'
     Arch:     amd64-64-little
     RELRO:    Partial RELRO
